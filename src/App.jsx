@@ -1,4 +1,4 @@
-// frontend/src/components/LoginFormPage/LoginFormPage.jsx
+// Stop being lazy and make it a project json later
 
 import { useState } from 'react';
 
