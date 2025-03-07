@@ -11,6 +11,7 @@ export default defineConfig(({ mode }) => ({
       failOnError: mode === "production"
     })
   ],
+  base: '/about/'
   // To automatically open the app in the browser whenever the server starts,
   // uncomment the following lines:
   // server: {
